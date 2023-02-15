@@ -3,5 +3,4 @@ data "aws_subnet_ids" "vpc_subnet" {
 }
 
 data "aws_availability_zones" "available" {
-  
 }
